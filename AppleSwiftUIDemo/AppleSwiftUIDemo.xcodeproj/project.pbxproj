@@ -15,6 +15,7 @@
 		120E01842364A1E0005737C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 120E01822364A1E0005737C0 /* LaunchScreen.storyboard */; };
 		127378A12364ABD80014BB75 /* Landmarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127378A02364ABD80014BB75 /* Landmarks.swift */; };
 		127378A32364B2710014BB75 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127378A22364B2710014BB75 /* CircleImage.swift */; };
+		127378A52364B4550014BB75 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127378A42364B4550014BB75 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		120E01852364A1E0005737C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		127378A02364ABD80014BB75 /* Landmarks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmarks.swift; sourceTree = "<group>"; };
 		127378A22364B2710014BB75 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		127378A42364B4550014BB75 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				120E017F2364A1E0005737C0 /* Preview Content */,
 				127378A02364ABD80014BB75 /* Landmarks.swift */,
 				127378A22364B2710014BB75 /* CircleImage.swift */,
+				127378A42364B4550014BB75 /* MapView.swift */,
 			);
 			path = AppleSwiftUIDemo;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				120E01782364A1DD005737C0 /* AppDelegate.swift in Sources */,
+				127378A52364B4550014BB75 /* MapView.swift in Sources */,
 				120E017A2364A1DD005737C0 /* SceneDelegate.swift in Sources */,
 				120E017C2364A1DD005737C0 /* ContentView.swift in Sources */,
 				127378A12364ABD80014BB75 /* Landmarks.swift in Sources */,
