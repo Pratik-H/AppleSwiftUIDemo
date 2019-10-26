@@ -13,6 +13,7 @@
 		120E017E2364A1E0005737C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120E017D2364A1E0005737C0 /* Assets.xcassets */; };
 		120E01812364A1E0005737C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120E01802364A1E0005737C0 /* Preview Assets.xcassets */; };
 		120E01842364A1E0005737C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 120E01822364A1E0005737C0 /* LaunchScreen.storyboard */; };
+		127378A12364ABD80014BB75 /* Landmarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127378A02364ABD80014BB75 /* Landmarks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		120E01802364A1E0005737C0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		120E01832364A1E0005737C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		120E01852364A1E0005737C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		127378A02364ABD80014BB75 /* Landmarks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmarks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				120E01822364A1E0005737C0 /* LaunchScreen.storyboard */,
 				120E01852364A1E0005737C0 /* Info.plist */,
 				120E017F2364A1E0005737C0 /* Preview Content */,
+				127378A02364ABD80014BB75 /* Landmarks.swift */,
 			);
 			path = AppleSwiftUIDemo;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				120E01782364A1DD005737C0 /* AppDelegate.swift in Sources */,
 				120E017A2364A1DD005737C0 /* SceneDelegate.swift in Sources */,
 				120E017C2364A1DD005737C0 /* ContentView.swift in Sources */,
+				127378A12364ABD80014BB75 /* Landmarks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
